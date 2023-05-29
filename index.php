@@ -1,2 +1,3 @@
-hello
-K
+<?php
+echo "khiem 123";
+?>
